@@ -1,3 +1,4 @@
+
 def remove_blanks(arr):
     ans = []
     for i in range(len(arr)):
