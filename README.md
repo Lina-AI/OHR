@@ -1,4 +1,4 @@
 # OHR
 Online Handwriting Recognition
 
-## Sup heading
+## Sub-heading
